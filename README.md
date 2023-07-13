@@ -11,9 +11,7 @@ The final phase involves model evaluation and deployment. The selected model is 
 
 The Rossmann Retail Price Prediction project aims to leverage machine learning techniques to enhance Rossmann's competitive advantage by providing accurate sales predictions. By leveraging historical sales data and external factors, the project empowers Rossmann to make informed pricing decisions, optimize its marketing strategies, and maximize revenue. This project showcases the power of data-driven insights in the retail industry and highlights the potential for future growth and success through advanced predictive analytics.
 
-
-
-Table of Contents
+# Table of Contents
 Import Packages
 Data Preparation
 2.1 Load Dataset
